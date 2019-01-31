@@ -14,7 +14,6 @@
 /.project
 /.settings/org.eclipse.buildship.core.prefs
 /bin/.gitignore
-/build.gradle
 /build/classes/java/main/App.class
 /build/classes/java/test/AppTest.class
 /build/libs/gs-spring-boot-0.1.0.jar
@@ -29,3 +28,7 @@
 /build/test-results/test/binary/results.bin
 /build/test-results/test/TEST-AppTest.xml
 /build/tmp/bootJar/MANIFEST.MF
+/build/classes/java/main/org/javahotfix/oom/app/OomDemoSpringBootApp.class
+/build/classes/java/main/org/javahotfix/oom/config/SomeSingletonInstance.class
+/build/classes/java/main/org/javahotfix/oom/controller/SomeController.class
+/build/resources/main/application.properties
